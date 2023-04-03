@@ -4,6 +4,6 @@ X)
      on ainoastaan paikka, missä ns varastoidaan koodinpätkiä. 
      
     - Vagrantin asentaminen ja sen kanssa liikkuminen cli:ssä oli suhteellisen selvää, mutta jotenkin en päässyt 
-      yli niistä esteistä, mitä minulle tuli vastaan. Muutama tässä alla:
+      yli niistä esteistä, mitä minulle tuli vastaan. Wiki välilehdeltä löytyy kuvankaappauksia. 
       
       
